@@ -1,0 +1,25 @@
+pytest test_case.py
+py.test test_case.py
+
+pytest test_demo_case.py -v -s
+
+pytest test_skipExample_withcondition.py -v -s
+
+pytest test_demo1.py -k test_loginb
+
+pytest test_exampleGroup_testcases.py -m "Hello"
+
+pytest test_exampleGroup_testcases.py -m "not Hello"
+
+pip3 install pytest-ordering
+assertion
+
+On windows open power shell or admin
+Lib:
+
+pytest
+pytest-html
+pytest-ordering
+pytest-dependency
+pytest-repeat
+

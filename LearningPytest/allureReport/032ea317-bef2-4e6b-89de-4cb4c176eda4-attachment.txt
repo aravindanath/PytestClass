@@ -1,0 +1,3 @@
+[32mINFO    [0m WDM:logger.py:24 Cache is valid for [31/05/2020]
+[32mINFO    [0m WDM:logger.py:14 Looking for [chromedriver 83.0.4103.39 mac64] driver in cache 
+[32mINFO    [0m WDM:logger.py:14 Driver found in cache [/Users/aravindanathdm/.wdm/drivers/chromedriver/83.0.4103.39/mac64/chromedriver]
